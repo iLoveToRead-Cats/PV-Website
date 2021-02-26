@@ -98,3 +98,28 @@ html {
 .travel_main_DIV p {
     margin-left: 20px;
 }
+
+.my_envi {
+    border: 5px;
+    border-color: darkgreen;
+    border-style: solid;
+}
+
+.envi_li {
+    margin-top: 13px;
+}
+
+.envi_li h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.my_envi1 {
+    border: 5px;
+    border-color: darkgreen;
+    border-style: solid;
+}
+
+.book hr {
+    margin-bottom: 10px;
+}
