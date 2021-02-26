@@ -68,3 +68,33 @@ html {
     text-align: center;
     color: white !;
 }
+
+#blue_ribbon {
+    margin: 10px;
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    float: inherit;
+}
+
+.travel_main_DIV {
+    border: 1px solid indigo;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+    width: 30%;
+}
+
+.travel_main_DIV img {
+    width: 100%;
+}
+
+.travel_main_DIV hr {
+    width: 230px;
+}
+
+.travel_main_DIV h5,
+.travel_main_DIV p {
+    margin-left: 20px;
+}
